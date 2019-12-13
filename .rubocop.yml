@@ -1,0 +1,10 @@
+#Metrics/MethodLength:
+ # Max: 1000
+#Metrics/ClassLength:
+#  Max: 10000
+#Metrics/AbcSize:
+ # Enabled: false
+# Style/ClassVars:
+#    Enabled: false
+# Style/AsciiComments:
+#    Enabled: false   
